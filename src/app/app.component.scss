@@ -1,0 +1,45 @@
+.ng-submitted{
+    .form-control.ng-invalid{
+        border: 2px solid #ff0000 !important;
+    }
+}
+
+// .inp{
+//     position: relative ;
+// }
+
+// .fas{
+//     position: absolute ;
+//     right: 10px;
+//     top: 25px;
+//     cursor: pointer;
+//     font-size: 20px;
+// }
+
+.form-group.user-box{
+    position: relative;
+    // margin-bottom: 30px;
+}
+.password-toggle-icon{
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
+.password-toggle-icon i{
+    
+    position: absolute;
+    // margin-bottom: 20px;
+    right: 10px;
+    top: 10px;
+}
+
+
+// .user-box input{
+//     position: absolute;
+//     top: 50%;
+//     right: 10px;
+
+// }
